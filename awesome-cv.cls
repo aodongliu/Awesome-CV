@@ -88,6 +88,8 @@
   pdfsubject={},
   pdfkeywords={}
 }
+% Allow breaking across pages
+\RequirePackage{longtable}
 
 
 %-------------------------------------------------------------------------------
@@ -387,6 +389,9 @@
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{P}[1]{>{\centering\let\newline\\\arraybackslash}p{#1}}
+\newcolumntype{J}[1]{>{\raggedright\let\newline\\\arraybackslash}p{#1}}
+\newcolumntype{K}[1]{>{\raggedleft\let\newline\\\arraybackslash}p{#1}}
 
 % Use to draw horizontal line with specific thickness
 \def\vhrulefill#1{\leavevmode\leaders\hrule\@height#1\hfill \kern\z@}
@@ -617,6 +622,36 @@
 % Usage: \cvhonor{<position>}{<title>}{<location>}{<date>}
 \newcommand*{\cvhonor}[4]{%
   \honordatestyle{#4} & \honorpositionstyle{#1}, \honortitlestyle{#2} & \honorlocationstyle{#3} \\
+}
+
+% Define an environment for cvpresentation
+\newenvironment{cvpresentations}{
+    \setlength\tabcolsep{0pt}
+    \setlength{\extrarowheight}{0pt}
+    \renewcommand*{\arraystretch}{1.5}
+	\begin{longtable}
+			{@{\extracolsep{\fill}} P{1.75cm} J{\textwidth - 4.25cm} K{2.5cm}}
+}
+    {\\ \end{longtable} 
+}
+% Usage: \cvpresentation{<title>}{<location>}{<date>}
+\newcommand*{\cvpresentation}[3]{%
+  \honordatestyle{#3} & \skillsetstyle{#1} & \honorlocationstyle{#2} \\ 
+}
+
+% Define an environment for cvpublication
+\newenvironment{cvpublications}{
+     \setlength\tabcolsep{0pt}
+     \setlength{\extrarowheight}{0pt}
+     \renewcommand*{\arraystretch}{1.5}
+     \begin{longtable}
+			 {@{\extracolsep{\fill}} P{0.5cm} J{\textwidth - 0.5cm}}
+}
+     {\\ \end{longtable} 
+}
+% Usage: \cvpublication{<number>}{<title>}
+\newcommand*{\cvpublication}[2]{%
+  \honordatestyle{#1} & \skillsetstyle{#2} \\ 
 }
 
 % Define an environment for cvskill
