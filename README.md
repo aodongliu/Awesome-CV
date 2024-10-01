@@ -1,3 +1,4 @@
-[![CV](https://raw.githubusercontent.com/aodongliu/Awesome-CV/myCV/al-cv/cv0.png)](https://raw.githubusercontent.com/aodongliu/Awesome-CV/myCV/al-cv/cv0.png)
+[![CV](https://github.com/aodongliu/Awesome-CV/blob/myCV/al-cv/cv0.png?raw=true)](https://github.com/aodongliu/Awesome-CV/blob/myCV/al-cv/cv0.png?raw=true)
 ------
-[![CV](https://raw.githubusercontent.com/aodongliu/Awesome-CV/myCV/al-cv/cv1.png)](https://raw.githubusercontent.com/aodongliu/Awesome-CV/myCV/al-cv/cv0.png)
+[![CV](https://github.com/aodongliu/Awesome-CV/blob/myCV/al-cv/cv1.png?raw=true)](https://github.com/aodongliu/Awesome-CV/blob/myCV/al-cv/cv1.png?raw=true)
+------
