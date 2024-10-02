@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1727819870 "cv.xdv" "cv.pdf" "cv" 1727819870 0
-  "cv.xdv" 1727819870 53296 fc262e02cb6896f4e1bcb6e00a7924bb "xelatex"
+["xdvipdfmx"] 1727893825 "cv.xdv" "cv.pdf" "cv" 1727893825 0
+  "cv.xdv" 1727893825 65136 2bd95e001021cce05443275ac42a7bb7 "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1727819869 "/Users/aodongliu/Personal/Awesome-CV/al-cv/cv.tex" "cv.xdv" "cv" 1727819870 0
-  "/Users/aodongliu/Personal/Awesome-CV/al-cv/cv.tex" 1727817105 3431 177f33e2d6da355a9b7112b2e7cd0f74 ""
+["xelatex"] 1727893824 "/Users/aodongliu/Personal/Awesome-CV/al-cv/cv.tex" "cv.xdv" "cv" 1727893825 0
+  "/Users/aodongliu/Personal/Awesome-CV/al-cv/cv.tex" 1727891613 3436 a0d0a723686afa34692d4308a86553fe ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -167,17 +167,17 @@
   "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1699916275 10502808 448e5076cd8e18d31c8a1ae26e9ed737 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "awesome-cv.cls" 1727815744 26733 16024cbe788f0174c9279bc2a6a16f77 ""
-  "cv.aux" 1727819870 702 c03faddc35b7ebc8a0b3365030fa7166 "xelatex"
-  "cv.out" 1727819870 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "cv.tex" 1727817105 3431 177f33e2d6da355a9b7112b2e7cd0f74 ""
+  "cv.aux" 1727893825 702 c03faddc35b7ebc8a0b3365030fa7166 "xelatex"
+  "cv.out" 1727893825 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "cv.tex" 1727891613 3436 a0d0a723686afa34692d4308a86553fe ""
   "fontawesome.sty" 1727815744 98058 2e80d263ede464f795c0f88d6cb47557 ""
-  "sections/education.tex" 1727815744 1313 2fa8b478c31446e8d614ed64ce2249c4 ""
+  "sections/education.tex" 1727891042 1418 365a668336e88a787925e297261018cc ""
   "sections/honors.tex" 1727815744 1476 73ddad88fccd9696ab77bcc40d2d02b1 ""
-  "sections/outreach.tex" 1727815744 843 d789b404e16d849266c3e545895ce3c9 ""
-  "sections/presentations.tex" 1727815744 2034 1ab1aefc7ba99b47e970fba165e1edab ""
-  "sections/publications.tex" 1727819869 2428 51b20baa0a68b21fa46c9da51ef8e4f3 ""
-  "sections/skills.tex" 1727815744 1233 54a97d6c316aee26fc80c956b422fbf2 ""
-  "sections/summary.tex" 1727819236 705 2787233841870dbe360747d35332d243 ""
+  "sections/outreach.tex" 1727890359 1329 dd59ff5a6ba50b7a0fb615dcef4e08d7 ""
+  "sections/presentations.tex" 1727893541 2348 7709db905c67ea6eeb0ac2f6d18c41f5 ""
+  "sections/publications.tex" 1727893541 2766 50fdcdc5b1731b9e3bd2b7388ae556b4 ""
+  "sections/skills.tex" 1727890411 1268 bee252ce172fc931850c15cde3e3ade6 ""
+  "sections/summary.tex" 1727893824 1578 c2557ba20bd2009d029937c953e4b2a5 ""
   (generated)
   "cv.aux"
   "cv.log"
