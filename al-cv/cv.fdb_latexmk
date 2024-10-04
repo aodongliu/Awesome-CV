@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1727893825 "cv.xdv" "cv.pdf" "cv" 1727893825 0
-  "cv.xdv" 1727893825 65136 2bd95e001021cce05443275ac42a7bb7 "xelatex"
+["xdvipdfmx"] 1728061590 "cv.xdv" "cv.pdf" "cv" 1728061591 0
+  "cv.xdv" 1728061590 70236 acce5030d000fb90fdd3e8ccaf4f4075 "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1727893824 "/Users/aodongliu/Personal/Awesome-CV/al-cv/cv.tex" "cv.xdv" "cv" 1727893825 0
-  "/Users/aodongliu/Personal/Awesome-CV/al-cv/cv.tex" 1727891613 3436 a0d0a723686afa34692d4308a86553fe ""
+["xelatex"] 1728061589 "/Users/aodongliu/Personal/Awesome-CV/al-cv/cv.tex" "cv.xdv" "cv" 1728061591 0
+  "/Users/aodongliu/Personal/Awesome-CV/al-cv/cv.tex" 1728019351 3727 579c37b1927b99e5af85a8ea0ce3ffd7 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -164,20 +164,21 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/xifthen/xifthen.sty" 1448319911 5689 1bfa68243e89a54479e7d0580773c57e ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1655411236 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
-  "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1699916275 10502808 448e5076cd8e18d31c8a1ae26e9ed737 ""
+  "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1683049368 10502797 8dac4d8558cedfbb754533833acda956 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "awesome-cv.cls" 1727815744 26733 16024cbe788f0174c9279bc2a6a16f77 ""
-  "cv.aux" 1727893825 702 c03faddc35b7ebc8a0b3365030fa7166 "xelatex"
-  "cv.out" 1727893825 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "cv.tex" 1727891613 3436 a0d0a723686afa34692d4308a86553fe ""
-  "fontawesome.sty" 1727815744 98058 2e80d263ede464f795c0f88d6cb47557 ""
-  "sections/education.tex" 1727891042 1418 365a668336e88a787925e297261018cc ""
-  "sections/honors.tex" 1727815744 1476 73ddad88fccd9696ab77bcc40d2d02b1 ""
-  "sections/outreach.tex" 1727890359 1329 dd59ff5a6ba50b7a0fb615dcef4e08d7 ""
-  "sections/presentations.tex" 1727893541 2348 7709db905c67ea6eeb0ac2f6d18c41f5 ""
-  "sections/publications.tex" 1727893541 2766 50fdcdc5b1731b9e3bd2b7388ae556b4 ""
-  "sections/skills.tex" 1727890411 1268 bee252ce172fc931850c15cde3e3ade6 ""
-  "sections/summary.tex" 1727893824 1578 c2557ba20bd2009d029937c953e4b2a5 ""
+  "awesome-cv.cls" 1728061588 28310 0ad0ea3944f10dfc046890ec1cb15c48 ""
+  "cv.aux" 1728061590 703 163ce5bd560fa6b5f5de9865ca1eb5f6 "xelatex"
+  "cv.out" 1728061590 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "cv.tex" 1728019351 3727 579c37b1927b99e5af85a8ea0ce3ffd7 ""
+  "fontawesome.sty" 1727917736 98058 2e80d263ede464f795c0f88d6cb47557 ""
+  "sections/education.tex" 1728016001 1413 b79b61dc20f760cfa5cd2cc650218b92 ""
+  "sections/experience.tex" 1728021679 2278 dd2ac5b57a4ce20dd31cedc130b767eb ""
+  "sections/honors.tex" 1728020372 1471 8776aa55c93c34363998f618dba9721a ""
+  "sections/outreach.tex" 1728021729 1318 b875ee8f3cd09006eee5e0a99354ad5b ""
+  "sections/presentations.tex" 1728020127 2266 4a160769685feb9bf6d07cac20a6207c ""
+  "sections/publications.tex" 1727917736 2766 50fdcdc5b1731b9e3bd2b7388ae556b4 ""
+  "sections/skills.tex" 1728014783 1384 45e2272fc3687d8964b4a0b7a682c982 ""
+  "sections/summary.tex" 1728019546 1565 59ba5ad0155f73d3b6253203375c8bc7 ""
   (generated)
   "cv.aux"
   "cv.log"
